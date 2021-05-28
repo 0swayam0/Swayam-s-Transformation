@@ -1,0 +1,27 @@
+h1{
+    color:#ff0000;
+    background-color: black;
+    padding:10px 435px 10px 435px;
+}
+
+h2{
+    color:#4F00ff;
+    text-decoration: #000000 underline 3px;
+}
+
+body{
+    background-color: rgb(255, 207, 136);
+}
+
+.images{
+    margin-top:50px;
+}
+
+.images img{
+    border: 8px solid;
+    margin-left:10px;
+}
+
+.images img:hover{
+    transform:scale(1.3);
+}
